@@ -7,3 +7,7 @@
 - list
 - list methods
 - While loop
+  - Continue
+  - Break 
+  - else 
+  - try except
