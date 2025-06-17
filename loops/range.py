@@ -30,3 +30,7 @@ nums = range(0, 10)
 list_of_nums = list(nums)
 
 print(list_of_nums)
+
+
+
+for _ in range(5): print('Cinco veces algo')
